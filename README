@@ -1,0 +1,3 @@
+Firmware to provide USB HID support on PIC 18f2455
+You'll need jallib-pack-bee to compile
+
